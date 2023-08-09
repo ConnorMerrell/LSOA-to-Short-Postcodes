@@ -2,4 +2,5 @@
 Python code to filter ONS Postcode directory to 2 columns of shortened postcode and LSOA code
 
 Used to help create the below map
-![Postcode Map](https://github.com/ConnorMerrell/LSOA-to-Short-Postcodes/assets/138818788/8749a415-204b-4cb8-ba3e-0b33da20ab11)
+
+![Postcode Map](https://github.com/ConnorMerrell/LSOA-to-Short-Postcodes/assets/138818788/bedff373-dee2-4bc8-89c0-54537dfa9e48)
